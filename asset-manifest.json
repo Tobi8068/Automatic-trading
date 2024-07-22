@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/frontend-react-build/static/css/main.8a191a76.css",
-    "main.js": "/frontend-react-build/static/js/main.b7b1021a.js",
+    "main.js": "/frontend-react-build/static/js/main.d93da857.js",
     "index.html": "/frontend-react-build/index.html"
   },
   "entrypoints": [
     "static/css/main.8a191a76.css",
-    "static/js/main.b7b1021a.js"
+    "static/js/main.d93da857.js"
   ]
 }
